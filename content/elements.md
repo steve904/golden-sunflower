@@ -23,6 +23,8 @@ seo:
 layout: page
 ---
 
+> A quote...you want a quote?
+
 # This is an H1
 ## This is an H2
 ### This is an H3
